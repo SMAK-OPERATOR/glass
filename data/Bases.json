@@ -1,0 +1,36 @@
+
+    {
+        "Body Armour": [
+            "Dex Armour",
+            "Dex Int Armour",
+            "Int Armour",
+            "Str Armour",
+            "Str Dex Armour",
+            "Str Dex Int Armour",
+            "Str Int Armour"
+        ],
+        "Boots": [
+            "Dex Boots",
+            "Dex Int Boots",
+            "Int Boots",
+            "Str Boots",
+            "Str Dex Boots",
+            "Str Int Boots"
+        ],
+        "Gloves": [
+            "Dex Gloves",
+            "Dex Int Gloves",
+            "Int Gloves",
+            "Str Dex Gloves",
+            "Str Gloves",
+            "Str Int Gloves"
+        ],
+        "Helmet": [
+            "Dex Helmet",
+            "Dex Int Helmet",
+            "Int Helmet",
+            "Str Dex Helmet",
+            "Str Helmet",
+            "Str Int Helmet"
+        ]
+    }

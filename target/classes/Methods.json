@@ -1,0 +1,11 @@
+{
+    "Alt+Aug":{
+        "minmods":1,
+        "maxmods":2
+    },
+    "Chaos Spam":{
+        "minmods":4,
+        "maxmods":6
+    }
+    
+}

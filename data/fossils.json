@@ -1,0 +1,346 @@
+{
+  "Serrated Fossil": {
+    "blocked_descriptions": [
+      "LessAttack"
+    ],
+    "descriptions": [
+      "More Attack modifiers",
+      "Fewer Caster modifiers"
+    ],
+    "name": "Serrated Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "caster",
+        "weight": 0.15
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "attack",
+        "weight": 10
+      }
+    ],
+    "cost": 3.0,
+    "imagePath" : "Fossils/SerratedFossil.png"
+  },
+  "Corroded Fossil": {
+    "blocked_descriptions": [
+      "MoreElemental"
+    ],
+    "descriptions": [
+      "More Physical Ailment or Chaos Ailment modifiers",
+      "No Elemental modifiers"
+    ],
+    "name": "Corroded Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "elemental",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "bleed",
+        "weight": 10
+      },
+      {
+        "tag": "poison",
+        "weight": 10
+      }
+    ],
+    "cost": 6.0,
+    "imagePath" : "Fossils/CorrodedFossil.png"
+  },
+  "Aetheric Fossil": {
+    "blocked_descriptions": [
+      "LessCaster"
+    ],
+    "descriptions": [
+      "More Caster modifiers",
+      "Fewer Attack modifiers"
+    ],
+    "name": "Aetheric Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "attack",
+        "weight": 0.15
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "caster",
+        "weight": 10
+      }
+    ],
+    "cost": 4.0,
+    "imagePath" : "Fossils/AethericFossil.png"
+  },
+  "Aberrant Fossil": {
+    "blocked_descriptions": [
+      "MoreLightning"
+    ],
+    "descriptions": [
+      "More Chaos modifiers",
+      "No Lightning modifiers"
+    ],
+    "name": "Aberrant Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "lightning",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "chaos",
+        "weight": 10
+      }
+    ],
+    "cost": 1.0,
+    "imagePath" : "Fossils/AberrantFossil.png"
+  },
+  "Frigid Fossil": {
+    "blocked_descriptions": [
+      "MoreFire"
+    ],
+    "descriptions": [
+      "More Cold modifiers",
+      "No Fire modifiers"
+    ],
+    "name": "Frigid Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "fire",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "cold",
+        "weight": 10
+      }
+    ],
+    "cost": 1.0,
+    "imagePath" : "Fossils/FrigidFossil.png"
+  },
+  "Dense Fossil": {
+    "blocked_descriptions": [
+      "MoreLife"
+    ],
+    "descriptions": [
+      "More Defence modifiers",
+      "No Life modifiers"
+    ],
+    "name": "Dense Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "life",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "defences",
+        "weight": 10
+      }
+    ],
+    "cost": 2.7,
+    "imagePath" : "Fossils/DenseFossil.png"
+  },
+  "Prismatic Fossil": {
+    "blocked_descriptions": [
+      "MoreBleedPoison"
+    ],
+    "descriptions": [
+      "More Elemental modifiers",
+      "No Physical Ailment or Chaos Ailment Modifiers"
+    ],
+    "name": "Prismatic Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "bleed",
+        "weight": 0
+      },
+      {
+        "tag": "poison",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "elemental",
+        "weight": 6
+      }
+    ],
+    "cost": 6.0,
+    "imagePath" : "Fossils/PrismaticFossil.png"
+  },
+  "Scorched Fossil": {
+    "blocked_descriptions": [
+      "MoreCold"
+    ],
+    "descriptions": [
+      "More Fire modifiers",
+      "No Cold modifiers"
+    ],
+    "name": "Scorched Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "cold",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "fire",
+        "weight": 10
+      }
+    ],
+    "cost": 3.0,
+    "imagePath" : "Fossils/ScorchedFossil.png"
+  },
+  "Pristine Fossil": {
+    "blocked_descriptions": [
+      "MoreDefences"
+    ],
+    "descriptions": [
+      "More Life modifiers",
+      "No Defence modifiers"
+    ],
+    "name": "Pristine Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "defences",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "life",
+        "weight": 10
+      }
+    ],
+    "cost": 2.0,
+    "imagePath" : "Fossils/PristineFossil.png"
+  },
+  "Metallic Fossil": {
+    "blocked_descriptions": [
+      "MorePhysical"
+    ],
+    "descriptions": [
+      "More Lightning modifiers",
+      "No Physical modifiers"
+    ],
+    "name": "Metallic Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "physical",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "lightning",
+        "weight": 10
+      }
+    ],
+    "cost": 1.0,
+    "imagePath" : "Fossils/MetallicFossil.png"
+  },
+  "Lucent Fossil": {
+    "blocked_descriptions": [
+      "MoreSpeed"
+    ],
+    "descriptions": [
+      "More Mana modifiers",
+      "No Speed modifiers"
+    ],
+    "name": "Lucent Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "speed",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "mana",
+        "weight": 10
+      }
+    ],
+    "cost": 3.0,
+    "imagePath" : "Fossils/LucentFossil.png"
+  },
+  "Bound Fossil": {
+    "blocked_descriptions": [],
+    "descriptions": [
+      "More Minion, Aura or Curse modifiers"
+    ],
+    "name": "Bound Fossil",
+    "negative_mod_weights": [],
+    "positive_mod_weights": [
+      {
+        "tag": "minion",
+        "weight": 10
+      },
+      {
+        "tag": "aura",
+        "weight": 10
+      },
+      {
+        "tag": "curse",
+        "weight": 10
+      }
+    ],
+    "cost": 7.0,
+    "imagePath" : "Fossils/BoundFossil.png"
+  },
+  "Jagged Fossil": {
+    "blocked_descriptions": [
+      "MoreChaos"
+    ],
+    "descriptions": [
+      "More Physical modifiers",
+      "No Chaos modifiers"
+    ],
+    "name": "Jagged Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "chaos",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "physical",
+        "weight": 10
+      }
+    ],
+    "cost": 2.2,
+    "imagePath" : "Fossils/JaggedFossil.png"
+  },
+  "Shuddering Fossil": {
+    "blocked_descriptions": [
+      "MoreMana"
+    ],
+    "descriptions": [
+      "More Speed modifiers",
+      "No Mana modifiers"
+    ],
+    "name": "Shuddering Fossil",
+    "negative_mod_weights": [
+      {
+        "tag": "mana",
+        "weight": 0
+      }
+    ],
+    "positive_mod_weights": [
+      {
+        "tag": "speed",
+        "weight": 10
+      }
+    ],
+    "cost": 3.0,
+    "imagePath" : "Fossils/ShudderingFossil.png"
+  }
+}

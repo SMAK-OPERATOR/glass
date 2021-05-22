@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Orb of Alteration",
+    "value": 0.3,
+    "amount": -1,
+    "imagepath": "Currency/OrbofAlteration.png",
+    "total": -1
+  },
+  {
+    "name": "Orb of Augmentation",
+    "value": 0.1,
+    "amount": -1,
+    "imagepath": "Currency/OrbofAugmentation.png",
+    "total": -1
+  },
+  {
+    "name": "Orb of Alchemy",
+    "value": 0.172,
+    "amount": -1,
+    "imagepath": "Currency/OrbofAlchemy.png",
+    "total": -1
+  },
+  {
+    "name": "Orb of Binding",
+    "value": 0.166,
+    "amount": -1,
+    "imagepath": "Currency/BindingOrb.png",
+    "total": -1
+  },
+  {
+    "name": "Orb of Scouring",
+    "value": 0.5,
+    "amount": -1,
+    "imagepath": "Currency/OrbofScouring.png",
+    "total": -1
+  },
+  {
+    "name": "Prime Chaotic Resonator",
+    "value": 40,
+    "amount": -1,
+    "imagepath": "Currency/Reroll2x2C.png",
+    "total": -1
+  },
+  {
+    "name": "Powerful Chaotic Resonator",
+    "value": 3,
+    "amount": -1,
+    "imagepath": "Currency/Reroll2x2A.png",
+    "total": -1
+  },
+  {
+    "name": "Potent Chaotic Resonator",
+    "value": 1,
+    "amount": -1,
+    "imagepath": "Currency/Reroll2x1A.png",
+    "total": -1
+  },
+  {
+    "name": "Primitive Chaotic Resonator",
+    "value": 0.5,
+    "amount": -1,
+    "imagepath": "Currency/Reroll1x1A.png",
+    "total": -1
+  }
+]

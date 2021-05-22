@@ -1,0 +1,7773 @@
+[
+  {
+    "weight": 200,
+    "name": "AddedColdDamagePerDexterityInfluence1",
+    "stats": [
+      {
+        "id": "attacks_with_this_weapon_minimum_added_cold_damage_per_10_dexterity",
+        "max": 2,
+        "min": 1
+      },
+      {
+        "id": "attacks_with_this_weapon_maximum_added_cold_damage_per_10_dexterity",
+        "max": 4,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "AddedColdDamagePerDexterity",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 200,
+    "name": "AddedColdDamagePerDexterityUber1",
+    "stats": [
+      {
+        "id": "attacks_with_this_weapon_minimum_added_cold_damage_per_10_dexterity",
+        "max": 2,
+        "min": 1
+      },
+      {
+        "id": "attacks_with_this_weapon_maximum_added_cold_damage_per_10_dexterity",
+        "max": 4,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "AddedColdDamagePerDexterity",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 200,
+    "name": "AddedLightningDamagePerIntelligenceInfluence1",
+    "stats": [
+      {
+        "id": "attack_minimum_added_lightning_damage_per_10_int",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "attack_maximum_added_lightning_damage_per_10_int",
+        "max": 6,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "AddedLightningDamagePerIntelligence",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 200,
+    "name": "AddedLightningDamagePerIntelligenceUber1",
+    "stats": [
+      {
+        "id": "attack_minimum_added_lightning_damage_per_10_int",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "attack_maximum_added_lightning_damage_per_10_int",
+        "max": 6,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "AddedLightningDamagePerIntelligence",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "ArmourPenetrationWeaponInfluence1",
+    "stats": [
+      {
+        "id": "local_weapon_enemy_phys_reduction_%_penalty",
+        "max": 16,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "ArmourPenetration",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "ArmourPenetrationWeaponInfluence2",
+    "stats": [
+      {
+        "id": "local_weapon_enemy_phys_reduction_%_penalty",
+        "max": 20,
+        "min": 17
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "ArmourPenetration",
+    "iLvl": 71,
+    "influence": "hunter"
+  },
+  {
+    "weight": 1000,
+    "name": "BlindOnHitUber1",
+    "stats": [
+      {
+        "id": "attacks_chance_to_blind_on_hit_%",
+        "max": 6,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "BlindOnHit",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "BlindOnHitUber2",
+    "stats": [
+      {
+        "id": "attacks_chance_to_blind_on_hit_%",
+        "max": 8,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "BlindOnHit",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "BlindOnHitUber3",
+    "stats": [
+      {
+        "id": "attacks_chance_to_blind_on_hit_%",
+        "max": 10,
+        "min": 9
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "BlindOnHit",
+    "iLvl": 81,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "BlindOnHitWeaponInfluence1",
+    "stats": [
+      {
+        "id": "attacks_chance_to_blind_on_hit_%",
+        "max": 18,
+        "min": 15
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "BlindOnHit",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "BlindOnHitWeaponInfluence2",
+    "stats": [
+      {
+        "id": "attacks_chance_to_blind_on_hit_%",
+        "max": 22,
+        "min": 19
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "BlindOnHit",
+    "iLvl": 70,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "BlindOnHitWeaponInfluence3",
+    "stats": [
+      {
+        "id": "attacks_chance_to_blind_on_hit_%",
+        "max": 25,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "BlindOnHit",
+    "iLvl": 73,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "BlockWhileDualWieldingInfluence1__",
+    "stats": [
+      {
+        "id": "block_while_dual_wielding_%",
+        "max": 4,
+        "min": 2
+      }
+    ],
+    "tags": [
+      "block"
+    ],
+    "generation_type": "suffix",
+    "group": "BlockWhileDualWielding",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "BlockWhileDualWieldingInfluence2",
+    "stats": [
+      {
+        "id": "block_while_dual_wielding_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "block"
+    ],
+    "generation_type": "suffix",
+    "group": "BlockWhileDualWielding",
+    "iLvl": 70,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "BlockWhileDualWieldingInfluence3",
+    "stats": [
+      {
+        "id": "block_while_dual_wielding_%",
+        "max": 9,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "block"
+    ],
+    "generation_type": "suffix",
+    "group": "BlockWhileDualWielding",
+    "iLvl": 73,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 1000,
+    "name": "BlockWhileDualWieldingUber1",
+    "stats": [
+      {
+        "id": "block_while_dual_wielding_%",
+        "max": 4,
+        "min": 2
+      }
+    ],
+    "tags": [
+      "block"
+    ],
+    "generation_type": "suffix",
+    "group": "BlockWhileDualWielding",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "BlockWhileDualWieldingUber2",
+    "stats": [
+      {
+        "id": "block_while_dual_wielding_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "block"
+    ],
+    "generation_type": "suffix",
+    "group": "BlockWhileDualWielding",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "BlockWhileDualWieldingUber3_",
+    "stats": [
+      {
+        "id": "block_while_dual_wielding_%",
+        "max": 9,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "block"
+    ],
+    "generation_type": "suffix",
+    "group": "BlockWhileDualWielding",
+    "iLvl": 80,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "ChanceForBleedDamageFinalInflictedWithThisWeaponUber1",
+    "stats": [
+      {
+        "id": "local_chance_for_bleeding_damage_+100%_final_inflicted_with_this_weapon",
+        "max": 60,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "bleed",
+      "damage",
+      "physical",
+      "attack",
+      "ailment"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon",
+    "iLvl": 83,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "ChanceForPoisonDamageFinalInflictedWithThisWeaponUber1",
+    "stats": [
+      {
+        "id": "local_chance_for_poison_damage_+100%_final_inflicted_with_this_weapon",
+        "max": 60,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "attack",
+      "ailment"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon",
+    "iLvl": 83,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "ChanceToBleedUber1",
+    "stats": [
+      {
+        "id": "local_chance_to_bleed_on_hit_%",
+        "max": 10,
+        "min": 10
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_chance_to_bleed",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "bleed",
+      "physical",
+      "attack",
+      "ailment",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "LocalChanceToBleed",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "ChanceToBleedUber2",
+    "stats": [
+      {
+        "id": "local_chance_to_bleed_on_hit_%",
+        "max": 15,
+        "min": 15
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_chance_to_bleed",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "bleed",
+      "physical",
+      "attack",
+      "ailment",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "LocalChanceToBleed",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "ChanceToIntimidateOnHitWeaponInfluence1",
+    "stats": [
+      {
+        "id": "local_chance_to_intimidate_on_hit_%",
+        "max": 11,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "ChanceToIntimidateOnHit",
+    "iLvl": 78,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "ChanceToIntimidateOnHitWeaponInfluence2",
+    "stats": [
+      {
+        "id": "local_chance_to_intimidate_on_hit_%",
+        "max": 15,
+        "min": 12
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "ChanceToIntimidateOnHit",
+    "iLvl": 81,
+    "influence": "hunter"
+  },
+  {
+    "weight": 1000,
+    "name": "ChanceToMaimUber1",
+    "stats": [
+      {
+        "id": "local_maim_on_hit_%",
+        "max": 15,
+        "min": 15
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_maim",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "LocalChanceToMaim",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "ChanceToMaimUber2",
+    "stats": [
+      {
+        "id": "local_maim_on_hit_%",
+        "max": 20,
+        "min": 20
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_maim",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "LocalChanceToMaim",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "ChanceToPoisonUber1",
+    "stats": [
+      {
+        "id": "local_poison_on_hit_%",
+        "max": 15,
+        "min": 15
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_poison",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "poison",
+      "chaos",
+      "attack",
+      "ailment",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "LocalChanceToPoisonOnHit",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "ChanceToPoisonUber2",
+    "stats": [
+      {
+        "id": "local_poison_on_hit_%",
+        "max": 20,
+        "min": 20
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_poison",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "poison",
+      "chaos",
+      "attack",
+      "ailment",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "LocalChanceToPoisonOnHit",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 125,
+    "name": "ChaosResist1",
+    "stats": [
+      {
+        "id": "base_chaos_damage_resistance_%",
+        "max": 10,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "chaos",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ChaosResistance",
+    "iLvl": 16,
+    "influence": ""
+  },
+  {
+    "weight": 125,
+    "name": "ChaosResist2",
+    "stats": [
+      {
+        "id": "base_chaos_damage_resistance_%",
+        "max": 15,
+        "min": 11
+      }
+    ],
+    "tags": [
+      "chaos",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ChaosResistance",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 125,
+    "name": "ChaosResist3",
+    "stats": [
+      {
+        "id": "base_chaos_damage_resistance_%",
+        "max": 20,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "chaos",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ChaosResistance",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 125,
+    "name": "ChaosResist4",
+    "stats": [
+      {
+        "id": "base_chaos_damage_resistance_%",
+        "max": 25,
+        "min": 21
+      }
+    ],
+    "tags": [
+      "chaos",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ChaosResistance",
+    "iLvl": 56,
+    "influence": ""
+  },
+  {
+    "weight": 125,
+    "name": "ChaosResist5",
+    "stats": [
+      {
+        "id": "base_chaos_damage_resistance_%",
+        "max": 30,
+        "min": 26
+      }
+    ],
+    "tags": [
+      "chaos",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ChaosResistance",
+    "iLvl": 65,
+    "influence": ""
+  },
+  {
+    "weight": 125,
+    "name": "ChaosResist6",
+    "stats": [
+      {
+        "id": "base_chaos_damage_resistance_%",
+        "max": 35,
+        "min": 31
+      }
+    ],
+    "tags": [
+      "chaos",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ChaosResistance",
+    "iLvl": 81,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist1",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 11,
+        "min": 6
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist2",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 17,
+        "min": 12
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 14,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist3",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 23,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 26,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist4",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 29,
+        "min": 24
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 38,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist5",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 35,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 50,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist6",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 41,
+        "min": 36
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist7",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 45,
+        "min": 42
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 72,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "ColdResist8",
+    "stats": [
+      {
+        "id": "base_cold_damage_resistance_%",
+        "max": 48,
+        "min": 46
+      }
+    ],
+    "tags": [
+      "elemental",
+      "cold",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "ColdResistance",
+    "iLvl": 84,
+    "influence": ""
+  },
+  {
+    "weight": 350,
+    "name": "ConvertPhysicalToChaosInfluenceWeapon1",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_chaos",
+        "max": 20,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "chaos"
+    ],
+    "generation_type": "suffix",
+    "group": "PhysicalDamageConvertedToChaos",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 350,
+    "name": "ConvertPhysicalToChaosInfluenceWeapon2",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_chaos",
+        "max": 25,
+        "min": 21
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "chaos"
+    ],
+    "generation_type": "suffix",
+    "group": "PhysicalDamageConvertedToChaos",
+    "iLvl": 71,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "ConvertPhysicalToColdInfluenceWeapon1",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_cold",
+        "max": 26,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "suffix",
+    "group": "ConvertPhysicalToCold",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "ConvertPhysicalToColdInfluenceWeapon2_",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_cold",
+        "max": 30,
+        "min": 27
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "suffix",
+    "group": "ConvertPhysicalToCold",
+    "iLvl": 71,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "ConvertPhysicalToLightningInfluenceWeapon1",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_lightning",
+        "max": 26,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "suffix",
+    "group": "ConvertPhysicalToLightning",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "ConvertPhysicalToLightningInfluenceWeapon2_",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_lightning",
+        "max": 30,
+        "min": 27
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "suffix",
+    "group": "ConvertPhysicalToLightning",
+    "iLvl": 71,
+    "influence": "crusader"
+  },
+  {
+    "weight": 1000,
+    "name": "CriticalChanceAgainstBlindedEnemiesUber1_",
+    "stats": [
+      {
+        "id": "critical_strike_chance_+%_vs_blinded_enemies",
+        "max": 100,
+        "min": 80
+      }
+    ],
+    "tags": [
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalChanceAgainstBlindedEnemies",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "CriticalMultiplierSupportedUber1",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 25,
+        "min": 22
+      },
+      {
+        "id": "local_display_socketed_gems_get_increased_critical_damage_level",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "damage",
+      "attack",
+      "critical",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "CriticalMultiplierSupportedUber2",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 29,
+        "min": 26
+      },
+      {
+        "id": "local_display_socketed_gems_get_increased_critical_damage_level",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "damage",
+      "attack",
+      "critical",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "CriticalStrikeChanceIfKilledRecentlyInfluence1",
+    "stats": [
+      {
+        "id": "critical_strike_chance_+%_if_enemy_killed_recently",
+        "max": 40,
+        "min": 31
+      }
+    ],
+    "tags": [
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIfKilledRecently",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "CriticalStrikeChanceIfKilledRecentlyInfluence2",
+    "stats": [
+      {
+        "id": "critical_strike_chance_+%_if_enemy_killed_recently",
+        "max": 50,
+        "min": 41
+      }
+    ],
+    "tags": [
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIfKilledRecently",
+    "iLvl": 73,
+    "influence": "crusader"
+  },
+  {
+    "weight": 1000,
+    "name": "CriticalStrikeChanceSupportedUber1",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 25,
+        "min": 22
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_increased_critical_strikes",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "critical",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "CriticalStrikeChanceSupportedUber2",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 29,
+        "min": 26
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_increased_critical_strikes",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "critical",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "CriticalStrikeMultiplierIfKilledRecentlyInfluence1",
+    "stats": [
+      {
+        "id": "critical_strike_multiplier_+_if_enemy_killed_recently",
+        "max": 30,
+        "min": 26
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplierIfEnemySlainRecently",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "CriticalStrikeMultiplierIfKilledRecentlyInfluence2_",
+    "stats": [
+      {
+        "id": "critical_strike_multiplier_+_if_enemy_killed_recently",
+        "max": 35,
+        "min": 31
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplierIfEnemySlainRecently",
+    "iLvl": 73,
+    "influence": "warlord"
+  },
+  {
+    "weight": 400,
+    "name": "DamageFromAurasWeaponInfluence1",
+    "stats": [
+      {
+        "id": "auras_grant_damage_+%_to_you_and_your_allies",
+        "max": 2,
+        "min": 2
+      }
+    ],
+    "tags": [
+      "damage",
+      "aura"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedDamageFromAuras",
+    "iLvl": 82,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity1",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 12,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity2",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 17,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity3",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 22,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 22,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity4",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 27,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 33,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity5",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 32,
+        "min": 28
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity6",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 37,
+        "min": 33
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 55,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity7",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 42,
+        "min": 38
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 66,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity8",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 50,
+        "min": 43
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 74,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Dexterity9",
+    "stats": [
+      {
+        "id": "additional_dexterity",
+        "max": 55,
+        "min": 51
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Dexterity",
+    "iLvl": 82,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ElementalPenetrationWeaponNewUber1",
+    "stats": [
+      {
+        "id": "reduce_enemy_elemental_resistance_%",
+        "max": 4,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental"
+    ],
+    "generation_type": "prefix",
+    "group": "ElementalPenetration",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "ElementalPenetrationWeaponNewUber2",
+    "stats": [
+      {
+        "id": "reduce_enemy_elemental_resistance_%",
+        "max": 5,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental"
+    ],
+    "generation_type": "prefix",
+    "group": "ElementalPenetration",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "ElementalPenetrationWeaponNewUber3",
+    "stats": [
+      {
+        "id": "reduce_enemy_elemental_resistance_%",
+        "max": 6,
+        "min": 6
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental"
+    ],
+    "generation_type": "prefix",
+    "group": "ElementalPenetration",
+    "iLvl": 83,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "EnemiesHaveReducedEvasionIfHitRecentlyUber1",
+    "stats": [
+      {
+        "id": "enemy_evasion_+%_if_you_have_hit_them_recently",
+        "max": -20,
+        "min": -20
+      }
+    ],
+    "tags": [
+      "evasion",
+      "defences"
+    ],
+    "generation_type": "suffix",
+    "group": "EnemiesHaveReducedEvasionIfHitRecently",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "FasterPoisonDamageInfluence1",
+    "stats": [
+      {
+        "id": "faster_poison_%",
+        "max": 12,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "suffix",
+    "group": "FasterDamageAilments",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "FasterPoisonDamageInfluence2",
+    "stats": [
+      {
+        "id": "faster_poison_%",
+        "max": 15,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "suffix",
+    "group": "FasterDamageAilments",
+    "iLvl": 73,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "FireResist1",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 11,
+        "min": 6
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist2",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 17,
+        "min": 12
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 12,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist3",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 23,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 24,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist4",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 29,
+        "min": 24
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 36,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist5",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 35,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 48,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist6",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 41,
+        "min": 36
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist7",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 45,
+        "min": 42
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 72,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "FireResist8",
+    "stats": [
+      {
+        "id": "base_fire_damage_resistance_%",
+        "max": 48,
+        "min": 46
+      }
+    ],
+    "tags": [
+      "elemental",
+      "fire",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "FireResistance",
+    "iLvl": 84,
+    "influence": ""
+  },
+  {
+    "weight": 250,
+    "name": "FrenzyChargeOnKillInfluence1",
+    "stats": [
+      {
+        "id": "add_frenzy_charge_on_kill_%_chance",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "frenzy_charge"
+    ],
+    "generation_type": "prefix",
+    "group": "FrenzyChargeOnKillChance",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 250,
+    "name": "FrenzyChargeOnKillInfluence2",
+    "stats": [
+      {
+        "id": "add_frenzy_charge_on_kill_%_chance",
+        "max": 10,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "frenzy_charge"
+    ],
+    "generation_type": "prefix",
+    "group": "FrenzyChargeOnKillChance",
+    "iLvl": 80,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "GainRareMonsterModsOnKillChanceInfluence1",
+    "stats": [
+      {
+        "id": "gain_1_rare_monster_mod_on_kill_for_10_seconds_%_chance",
+        "max": 30,
+        "min": 21
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "GainRareMonsterModsOnKill",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "GainRareMonsterModsOnKillChanceInfluence2",
+    "stats": [
+      {
+        "id": "gain_1_rare_monster_mod_on_kill_for_10_seconds_%_chance",
+        "max": 40,
+        "min": 31
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "GainRareMonsterModsOnKill",
+    "iLvl": 73,
+    "influence": "warlord"
+  },
+  {
+    "weight": 1000,
+    "name": "GainRareMonsterModsOnKillChanceUber1",
+    "stats": [
+      {
+        "id": "gain_1_rare_monster_mod_on_kill_for_10_seconds_%_chance",
+        "max": 20,
+        "min": 15
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "GainRareMonsterModsOnKill",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "ImpaleEffectWeaponInfluence1__",
+    "stats": [
+      {
+        "id": "impale_debuff_effect_+%",
+        "max": 9,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "physical"
+    ],
+    "generation_type": "suffix",
+    "group": "ImpaleEffect",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "ImpaleEffectWeaponInfluence2_",
+    "stats": [
+      {
+        "id": "impale_debuff_effect_+%",
+        "max": 12,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical"
+    ],
+    "generation_type": "suffix",
+    "group": "ImpaleEffect",
+    "iLvl": 71,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "ImpaleEffectWeaponInfluence3",
+    "stats": [
+      {
+        "id": "impale_debuff_effect_+%",
+        "max": 15,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "physical"
+    ],
+    "generation_type": "suffix",
+    "group": "ImpaleEffect",
+    "iLvl": 75,
+    "influence": "crusader"
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife0",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 9,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife1",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 19,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 5,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife2",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 29,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife3",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 39,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 18,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife4",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 49,
+        "min": 40
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 24,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife5",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 59,
+        "min": 50
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife6",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 69,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 36,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife7",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 79,
+        "min": 70
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife8",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 89,
+        "min": 80
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 54,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedLife9",
+    "stats": [
+      {
+        "id": "base_maximum_life",
+        "max": 99,
+        "min": 90
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedLife",
+    "iLvl": 64,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon1",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 39,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 800,
+    "name": "IncreasedManaWeapon10",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 129,
+        "min": 120
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 69,
+    "influence": ""
+  },
+  {
+    "weight": 600,
+    "name": "IncreasedManaWeapon11",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 139,
+        "min": 130
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 75,
+    "influence": ""
+  },
+  {
+    "weight": 400,
+    "name": "IncreasedManaWeapon12",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 159,
+        "min": 140
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 81,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon2__",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 49,
+        "min": 40
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon3_",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 59,
+        "min": 50
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 17,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon4",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 69,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 23,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon5",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 79,
+        "min": 70
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 29,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon6",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 89,
+        "min": 80
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 35,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon7",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 99,
+        "min": 90
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 42,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon8",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 109,
+        "min": 100
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 51,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "IncreasedManaWeapon9___",
+    "stats": [
+      {
+        "id": "base_maximum_mana",
+        "max": 119,
+        "min": 110
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedMana",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence1",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 12,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence2",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 17,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence3",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 22,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 22,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence4",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 27,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 33,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence5",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 32,
+        "min": 28
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence6",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 37,
+        "min": 33
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 55,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence7",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 42,
+        "min": 38
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 66,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence8",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 50,
+        "min": 43
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 74,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "Intelligence9",
+    "stats": [
+      {
+        "id": "additional_intelligence",
+        "max": 55,
+        "min": 51
+      }
+    ],
+    "tags": [
+      "attribute"
+    ],
+    "generation_type": "suffix",
+    "group": "Intelligence",
+    "iLvl": 82,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainPerBlindedEnemyHitUber1",
+    "stats": [
+      {
+        "id": "local_life_gain_per_target_vs_blinded_enemies",
+        "max": 50,
+        "min": 35
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainPerBlindedEnemyHit",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainPerTargetLocal1",
+    "stats": [
+      {
+        "id": "local_life_gain_per_target",
+        "max": 2,
+        "min": 2
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainPerTarget",
+    "iLvl": 8,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainPerTargetLocal2",
+    "stats": [
+      {
+        "id": "local_life_gain_per_target",
+        "max": 3,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainPerTarget",
+    "iLvl": 20,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainPerTargetLocal3",
+    "stats": [
+      {
+        "id": "local_life_gain_per_target",
+        "max": 4,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainPerTarget",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainPerTargetLocal4",
+    "stats": [
+      {
+        "id": "local_life_gain_per_target",
+        "max": 5,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainPerTarget",
+    "iLvl": 40,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainedFromEnemyDeath1",
+    "stats": [
+      {
+        "id": "base_life_gained_on_enemy_death",
+        "max": 6,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainedFromEnemyDeath",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainedFromEnemyDeath2",
+    "stats": [
+      {
+        "id": "base_life_gained_on_enemy_death",
+        "max": 10,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainedFromEnemyDeath",
+    "iLvl": 23,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeGainedFromEnemyDeath3",
+    "stats": [
+      {
+        "id": "base_life_gained_on_enemy_death",
+        "max": 14,
+        "min": 11
+      }
+    ],
+    "tags": [
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeGainedFromEnemyDeath",
+    "iLvl": 40,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LifeLeechPermyriadLocal1",
+    "stats": [
+      {
+        "id": "local_life_leech_from_physical_damage_permyriad",
+        "max": 40,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LifeLeech",
+    "iLvl": 50,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LifeLeechPermyriadLocal2",
+    "stats": [
+      {
+        "id": "local_life_leech_from_physical_damage_permyriad",
+        "max": 80,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LifeLeech",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 250,
+    "name": "LifeLeechPermyriadLocal3",
+    "stats": [
+      {
+        "id": "local_life_leech_from_physical_damage_permyriad",
+        "max": 120,
+        "min": 100
+      }
+    ],
+    "tags": [
+      "resource",
+      "life",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LifeLeech",
+    "iLvl": 70,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration1",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 120,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration2",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 300,
+        "min": 121
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 18,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration3",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 600,
+        "min": 301
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration4",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 900,
+        "min": 601
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration5",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 1320,
+        "min": 901
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 59,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration6",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 1800,
+        "min": 1321
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 78,
+    "influence": ""
+  },
+  {
+    "weight": 700,
+    "name": "LifeRegeneration7",
+    "stats": [
+      {
+        "id": "base_life_regeneration_rate_per_minute",
+        "max": 2400,
+        "min": 1801
+      }
+    ],
+    "tags": [
+      "flat_life_regen",
+      "resource",
+      "life"
+    ],
+    "generation_type": "suffix",
+    "group": "LifeRegeneration",
+    "iLvl": 83,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist1",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 11,
+        "min": 6
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist2",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 17,
+        "min": 12
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 13,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist3",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 23,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 25,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist4",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 29,
+        "min": 24
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 37,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist5",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 35,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 49,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist6",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 41,
+        "min": 36
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist7",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 45,
+        "min": 42
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 72,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LightningResist8",
+    "stats": [
+      {
+        "id": "base_lightning_damage_resistance_%",
+        "max": 48,
+        "min": 46
+      }
+    ],
+    "tags": [
+      "elemental",
+      "lightning",
+      "resistance"
+    ],
+    "generation_type": "suffix",
+    "group": "LightningResistance",
+    "iLvl": 84,
+    "influence": ""
+  },
+  {
+    "weight": 600,
+    "name": "LocalAddedChaosDamage1",
+    "stats": [
+      {
+        "id": "local_minimum_added_chaos_damage",
+        "max": 72,
+        "min": 47
+      },
+      {
+        "id": "local_maximum_added_chaos_damage",
+        "max": 123,
+        "min": 98
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalChaosDamage",
+    "iLvl": 83,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedChaosDamageAndPenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_minimum_added_chaos_damage",
+        "max": 7,
+        "min": 5
+      },
+      {
+        "id": "local_maximum_added_chaos_damage",
+        "max": 13,
+        "min": 11
+      },
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosDamageHybrid",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedChaosDamageAndPenetrationInfluence2",
+    "stats": [
+      {
+        "id": "local_minimum_added_chaos_damage",
+        "max": 11,
+        "min": 9
+      },
+      {
+        "id": "local_maximum_added_chaos_damage",
+        "max": 20,
+        "min": 17
+      },
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosDamageHybrid",
+    "iLvl": 71,
+    "influence": "hunter"
+  },
+  {
+    "weight": 400,
+    "name": "LocalAddedChaosDamageAndPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_minimum_added_chaos_damage",
+        "max": 16,
+        "min": 12
+      },
+      {
+        "id": "local_maximum_added_chaos_damage",
+        "max": 28,
+        "min": 24
+      },
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosDamageHybrid",
+    "iLvl": 74,
+    "influence": "hunter"
+  },
+  {
+    "weight": 300,
+    "name": "LocalAddedChaosDamageAndPenetrationInfluence4",
+    "stats": [
+      {
+        "id": "local_minimum_added_chaos_damage",
+        "max": 20,
+        "min": 15
+      },
+      {
+        "id": "local_maximum_added_chaos_damage",
+        "max": 35,
+        "min": 30
+      },
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosDamageHybrid",
+    "iLvl": 77,
+    "influence": "hunter"
+  },
+  {
+    "weight": 200,
+    "name": "LocalAddedChaosDamageAndPenetrationInfluence5",
+    "stats": [
+      {
+        "id": "local_minimum_added_chaos_damage",
+        "max": 25,
+        "min": 18
+      },
+      {
+        "id": "local_maximum_added_chaos_damage",
+        "max": 44,
+        "min": 38
+      },
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosDamageHybrid",
+    "iLvl": 80,
+    "influence": "hunter"
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage1",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 2,
+        "min": 1
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 4,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 2,
+    "influence": ""
+  },
+  {
+    "weight": 108,
+    "name": "LocalAddedColdDamage10__",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 101,
+        "min": 77
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 174,
+        "min": 152
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 82,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage2",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 9,
+        "min": 7
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 16,
+        "min": 14
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 12,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage3",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 14,
+        "min": 11
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 25,
+        "min": 22
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 19,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage4",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 20,
+        "min": 15
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 35,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 27,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage5",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 25,
+        "min": 19
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 44,
+        "min": 38
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 34,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage6",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 32,
+        "min": 23
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 55,
+        "min": 48
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 43,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedColdDamage7",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 38,
+        "min": 29
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 67,
+        "min": 57
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 52,
+    "influence": ""
+  },
+  {
+    "weight": 960,
+    "name": "LocalAddedColdDamage8",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 51,
+        "min": 37
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 88,
+        "min": 76
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 63,
+    "influence": ""
+  },
+  {
+    "weight": 420,
+    "name": "LocalAddedColdDamage9",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 72,
+        "min": 53
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 124,
+        "min": 107
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamage",
+    "iLvl": 75,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedColdDamageAndPenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 9,
+        "min": 7
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 16,
+        "min": 14
+      },
+      {
+        "id": "local_cold_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamageHybrid",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedColdDamageAndPenetrationInfluence2",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 14,
+        "min": 11
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 25,
+        "min": 22
+      },
+      {
+        "id": "local_cold_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamageHybrid",
+    "iLvl": 71,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 400,
+    "name": "LocalAddedColdDamageAndPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 20,
+        "min": 15
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 35,
+        "min": 30
+      },
+      {
+        "id": "local_cold_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamageHybrid",
+    "iLvl": 74,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 300,
+    "name": "LocalAddedColdDamageAndPenetrationInfluence4",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 25,
+        "min": 19
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 44,
+        "min": 38
+      },
+      {
+        "id": "local_cold_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamageHybrid",
+    "iLvl": 77,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 200,
+    "name": "LocalAddedColdDamageAndPenetrationInfluence5",
+    "stats": [
+      {
+        "id": "local_minimum_added_cold_damage",
+        "max": 32,
+        "min": 23
+      },
+      {
+        "id": "local_maximum_added_cold_damage",
+        "max": 55,
+        "min": 48
+      },
+      {
+        "id": "local_cold_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdDamageHybrid",
+    "iLvl": 80,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage1",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 2,
+        "min": 1
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 4,
+        "min": 3
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 108,
+    "name": "LocalAddedFireDamage10_",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 112,
+        "min": 82
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 194,
+        "min": 167
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 82,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage2",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 10,
+        "min": 8
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 18,
+        "min": 15
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage3",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 16,
+        "min": 12
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 28,
+        "min": 24
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 18,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage4",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 22,
+        "min": 17
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 39,
+        "min": 33
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 26,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage5",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 28,
+        "min": 21
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 49,
+        "min": 42
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 33,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage6",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 35,
+        "min": 26
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 61,
+        "min": 53
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 42,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedFireDamage7",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 42,
+        "min": 32
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 74,
+        "min": 63
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 51,
+    "influence": ""
+  },
+  {
+    "weight": 960,
+    "name": "LocalAddedFireDamage8",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 56,
+        "min": 42
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 98,
+        "min": 85
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 62,
+    "influence": ""
+  },
+  {
+    "weight": 420,
+    "name": "LocalAddedFireDamage9",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 79,
+        "min": 59
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 138,
+        "min": 118
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamage",
+    "iLvl": 74,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedFireDamageAndPenetrationInfluence1_",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 10,
+        "min": 8
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 18,
+        "min": 15
+      },
+      {
+        "id": "local_fire_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamageHybrid",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedFireDamageAndPenetrationInfluence2",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 16,
+        "min": 12
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 28,
+        "min": 24
+      },
+      {
+        "id": "local_fire_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamageHybrid",
+    "iLvl": 71,
+    "influence": "warlord"
+  },
+  {
+    "weight": 400,
+    "name": "LocalAddedFireDamageAndPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 22,
+        "min": 17
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 39,
+        "min": 33
+      },
+      {
+        "id": "local_fire_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamageHybrid",
+    "iLvl": 74,
+    "influence": "warlord"
+  },
+  {
+    "weight": 300,
+    "name": "LocalAddedFireDamageAndPenetrationInfluence4",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 28,
+        "min": 21
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 49,
+        "min": 42
+      },
+      {
+        "id": "local_fire_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamageHybrid",
+    "iLvl": 77,
+    "influence": "warlord"
+  },
+  {
+    "weight": 200,
+    "name": "LocalAddedFireDamageAndPenetrationInfluence5",
+    "stats": [
+      {
+        "id": "local_minimum_added_fire_damage",
+        "max": 35,
+        "min": 26
+      },
+      {
+        "id": "local_maximum_added_fire_damage",
+        "max": 61,
+        "min": 53
+      },
+      {
+        "id": "local_fire_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireDamageHybrid",
+    "iLvl": 80,
+    "influence": "warlord"
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage1",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 6,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 3,
+    "influence": ""
+  },
+  {
+    "weight": 108,
+    "name": "LocalAddedLightningDamage10",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 24,
+        "min": 9
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 315,
+        "min": 278
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 82,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage2",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 2,
+        "min": 2
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 29,
+        "min": 25
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 13,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage3",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 4,
+        "min": 1
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 45,
+        "min": 40
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 19,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage4",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 5,
+        "min": 2
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 63,
+        "min": 55
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 31,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage5",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 6,
+        "min": 2
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 79,
+        "min": 70
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 34,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage6",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 8,
+        "min": 3
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 99,
+        "min": 89
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 42,
+    "influence": ""
+  },
+  {
+    "weight": 1200,
+    "name": "LocalAddedLightningDamage7",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 9,
+        "min": 3
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 120,
+        "min": 105
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 51,
+    "influence": ""
+  },
+  {
+    "weight": 960,
+    "name": "LocalAddedLightningDamage8",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 12,
+        "min": 4
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 158,
+        "min": 142
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 63,
+    "influence": ""
+  },
+  {
+    "weight": 420,
+    "name": "LocalAddedLightningDamage9",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 17,
+        "min": 7
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 224,
+        "min": 198
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamage",
+    "iLvl": 74,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedLightningDamageAndPenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 2,
+        "min": 2
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 29,
+        "min": 25
+      },
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamageHybrid",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "LocalAddedLightningDamageAndPenetrationInfluence2_",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 4,
+        "min": 1
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 45,
+        "min": 40
+      },
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamageHybrid",
+    "iLvl": 71,
+    "influence": "crusader"
+  },
+  {
+    "weight": 400,
+    "name": "LocalAddedLightningDamageAndPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 5,
+        "min": 2
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 63,
+        "min": 55
+      },
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamageHybrid",
+    "iLvl": 74,
+    "influence": "crusader"
+  },
+  {
+    "weight": 300,
+    "name": "LocalAddedLightningDamageAndPenetrationInfluence4",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 6,
+        "min": 2
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 79,
+        "min": 70
+      },
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamageHybrid",
+    "iLvl": 77,
+    "influence": "crusader"
+  },
+  {
+    "weight": 200,
+    "name": "LocalAddedLightningDamageAndPenetrationInfluence5",
+    "stats": [
+      {
+        "id": "local_minimum_added_lightning_damage",
+        "max": 8,
+        "min": 3
+      },
+      {
+        "id": "local_maximum_added_lightning_damage",
+        "max": 99,
+        "min": 89
+      },
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningDamageHybrid",
+    "iLvl": 80,
+    "influence": "crusader"
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalMultiplier1",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 14,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 8,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalMultiplier2",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 19,
+        "min": 15
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 21,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalMultiplier3",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 24,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalMultiplier4",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 29,
+        "min": 25
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalMultiplier5",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 34,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 59,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalMultiplier6",
+    "stats": [
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 38,
+        "min": 35
+      }
+    ],
+    "tags": [
+      "damage",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeMultiplier",
+    "iLvl": 73,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalStrikeChance1",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 14,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "attack",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalStrikeChance2",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 19,
+        "min": 15
+      }
+    ],
+    "tags": [
+      "attack",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 20,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalStrikeChance3",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 24,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "attack",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalStrikeChance4",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 29,
+        "min": 25
+      }
+    ],
+    "tags": [
+      "attack",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalStrikeChance5",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 34,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "attack",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 59,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalCriticalStrikeChance6",
+    "stats": [
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 38,
+        "min": 35
+      }
+    ],
+    "tags": [
+      "attack",
+      "critical"
+    ],
+    "generation_type": "suffix",
+    "group": "CriticalStrikeChanceIncrease",
+    "iLvl": 73,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreaseSocketedGemLevel1",
+    "stats": [
+      {
+        "id": "local_socketed_gem_level_+",
+        "max": 1,
+        "min": 1
+      }
+    ],
+    "tags": [
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreaseSocketedGemLevel",
+    "iLvl": 50,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreaseSocketedMeleeGemLevel",
+    "stats": [
+      {
+        "id": "local_socketed_melee_gem_level_+",
+        "max": 2,
+        "min": 2
+      }
+    ],
+    "tags": [
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreaseSpecificSocketedGemLevel",
+    "iLvl": 63,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreaseSocketedMeleeGemLevel1",
+    "stats": [
+      {
+        "id": "local_socketed_melee_gem_level_+",
+        "max": 1,
+        "min": 1
+      }
+    ],
+    "tags": [
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreaseSpecificSocketedGemLevel",
+    "iLvl": 8,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAccuracyNew1",
+    "stats": [
+      {
+        "id": "local_accuracy_rating",
+        "max": 130,
+        "min": 80
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAccuracy",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAccuracyNew2",
+    "stats": [
+      {
+        "id": "local_accuracy_rating",
+        "max": 215,
+        "min": 131
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAccuracy",
+    "iLvl": 20,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAccuracyNew3",
+    "stats": [
+      {
+        "id": "local_accuracy_rating",
+        "max": 325,
+        "min": 216
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAccuracy",
+    "iLvl": 40,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAccuracyNew4",
+    "stats": [
+      {
+        "id": "local_accuracy_rating",
+        "max": 455,
+        "min": 326
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAccuracy",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAccuracyNew5",
+    "stats": [
+      {
+        "id": "local_accuracy_rating",
+        "max": 624,
+        "min": 456
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAccuracy",
+    "iLvl": 75,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed1",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 7,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed2",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 10,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed3",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 13,
+        "min": 11
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 22,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed4",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 16,
+        "min": 14
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed5",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 19,
+        "min": 17
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 37,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed6",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 22,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 45,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed7",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 25,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeed8",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 27,
+        "min": 26
+      }
+    ],
+    "tags": [
+      "attack",
+      "speed"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 77,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeedFasterAttacksUber1",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 19,
+        "min": 17
+      },
+      {
+        "id": "local_display_socketed_gems_get_faster_attacks_level",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "speed",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeedFasterAttacksUber2",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 21,
+        "min": 20
+      },
+      {
+        "id": "local_display_socketed_gems_get_faster_attacks_level",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "speed",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeedMultistrikeUber1_",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 19,
+        "min": 17
+      },
+      {
+        "id": "local_display_socketed_gems_get_multistrike_level",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "speed",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedAttackSpeedMultistrikeUber2",
+    "stats": [
+      {
+        "id": "local_attack_speed_+%",
+        "max": 21,
+        "min": 20
+      },
+      {
+        "id": "local_display_socketed_gems_get_multistrike_level",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "attack",
+      "speed",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "IncreasedAttackSpeed",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedPhysicalDamagePercent1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 49,
+        "min": 40
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedPhysicalDamagePercent2",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 64,
+        "min": 50
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedPhysicalDamagePercent3",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 84,
+        "min": 65
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 23,
+    "influence": ""
+  },
+  {
+    "weight": 400,
+    "name": "LocalIncreasedPhysicalDamagePercent4",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 109,
+        "min": 85
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 35,
+    "influence": ""
+  },
+  {
+    "weight": 200,
+    "name": "LocalIncreasedPhysicalDamagePercent5",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 134,
+        "min": 110
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 46,
+    "influence": ""
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercent6",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 154,
+        "min": 135
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 50,
+    "name": "LocalIncreasedPhysicalDamagePercent7",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 169,
+        "min": 155
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 73,
+    "influence": ""
+  },
+  {
+    "weight": 25,
+    "name": "LocalIncreasedPhysicalDamagePercent8",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 179,
+        "min": 170
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 83,
+    "influence": ""
+  },
+  {
+    "weight": 400,
+    "name": "LocalIncreasedPhysicalDamagePercentAddedFireUber1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 115,
+        "min": 101
+      },
+      {
+        "id": "local_display_socketed_gems_get_added_fire_damage_level",
+        "max": 16,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "fire",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 200,
+    "name": "LocalIncreasedPhysicalDamagePercentAddedFireUber2",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 126,
+        "min": 116
+      },
+      {
+        "id": "local_display_socketed_gems_get_added_fire_damage_level",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "fire",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentAddedFireUber3_",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 134,
+        "min": 127
+      },
+      {
+        "id": "local_display_socketed_gems_get_added_fire_damage_level",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "fire",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 80,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 19,
+        "min": 15
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 20,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating2",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 24,
+        "min": 20
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 46,
+        "min": 21
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 11,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating3",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 34,
+        "min": 25
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 72,
+        "min": 47
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 23,
+    "influence": ""
+  },
+  {
+    "weight": 400,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating4",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 44,
+        "min": 35
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 97,
+        "min": 73
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 35,
+    "influence": ""
+  },
+  {
+    "weight": 200,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating5",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 54,
+        "min": 45
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 123,
+        "min": 98
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 46,
+    "influence": ""
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating6",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 64,
+        "min": 55
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 149,
+        "min": 124
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 50,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating7",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 74,
+        "min": 65
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 174,
+        "min": 150
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 73,
+    "influence": ""
+  },
+  {
+    "weight": 25,
+    "name": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating8",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 79,
+        "min": 75
+      },
+      {
+        "id": "local_accuracy_rating",
+        "max": 200,
+        "min": 175
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 83,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritChanceInfluence1_",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 34,
+        "min": 25
+      },
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 10,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 250,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritChanceInfluence2",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 44,
+        "min": 35
+      },
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 10,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 71,
+    "influence": "crusader"
+  },
+  {
+    "weight": 150,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritChanceInfluence3_",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 54,
+        "min": 45
+      },
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 10,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 74,
+    "influence": "crusader"
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritChanceInfluence4",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 64,
+        "min": 55
+      },
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 10,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 77,
+    "influence": "crusader"
+  },
+  {
+    "weight": 50,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritChanceInfluence5",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 69,
+        "min": 65
+      },
+      {
+        "id": "local_critical_strike_chance_+%",
+        "max": 10,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 80,
+    "influence": "crusader"
+  },
+  {
+    "weight": 500,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritMultiInfluence1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 34,
+        "min": 25
+      },
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 15,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 250,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritMultiInfluence2",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 44,
+        "min": 35
+      },
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 15,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 71,
+    "influence": "warlord"
+  },
+  {
+    "weight": 150,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritMultiInfluence3_",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 54,
+        "min": 45
+      },
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 15,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 74,
+    "influence": "warlord"
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritMultiInfluence4",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 64,
+        "min": 55
+      },
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 15,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 77,
+    "influence": "warlord"
+  },
+  {
+    "weight": 50,
+    "name": "LocalIncreasedPhysicalDamagePercentAndCritMultiInfluence5",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 69,
+        "min": 65
+      },
+      {
+        "id": "base_critical_strike_multiplier_+",
+        "max": 15,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "critical"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "iLvl": 80,
+    "influence": "warlord"
+  },
+  {
+    "weight": 400,
+    "name": "LocalIncreasedPhysicalDamagePercentBrutalityUber1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 115,
+        "min": 101
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_brutality",
+        "max": 16,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 200,
+    "name": "LocalIncreasedPhysicalDamagePercentBrutalityUber2_",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 126,
+        "min": 116
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_brutality",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentBrutalityUber3",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 134,
+        "min": 127
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_brutality",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 80,
+    "influence": "elder"
+  },
+  {
+    "weight": 400,
+    "name": "LocalIncreasedPhysicalDamagePercentMeleePhysicalUber1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 115,
+        "min": 101
+      },
+      {
+        "id": "local_display_socketed_gems_get_melee_physical_damage_level",
+        "max": 16,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 200,
+    "name": "LocalIncreasedPhysicalDamagePercentMeleePhysicalUber2",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 126,
+        "min": 116
+      },
+      {
+        "id": "local_display_socketed_gems_get_melee_physical_damage_level",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentMeleePhysicalUber3",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 134,
+        "min": 127
+      },
+      {
+        "id": "local_display_socketed_gems_get_melee_physical_damage_level",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 80,
+    "influence": "elder"
+  },
+  {
+    "weight": 400,
+    "name": "LocalIncreasedPhysicalDamagePercentRuthlessUber1",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 115,
+        "min": 101
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_ruthless",
+        "max": 16,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 200,
+    "name": "LocalIncreasedPhysicalDamagePercentRuthlessUber2__",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 126,
+        "min": 116
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_ruthless",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 100,
+    "name": "LocalIncreasedPhysicalDamagePercentRuthlessUber3",
+    "stats": [
+      {
+        "id": "local_physical_damage_+%",
+        "max": 134,
+        "min": 127
+      },
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_ruthless",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "LocalPhysicalDamagePercent",
+    "iLvl": 80,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "LocalLightRadiusAndAccuracy3",
+    "stats": [
+      {
+        "id": "light_radius_+%",
+        "max": 15,
+        "min": 15
+      },
+      {
+        "id": "accuracy_rating_+%",
+        "max": 20,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LightRadiusAndAccuracy",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalLightRadiusAndAccuracyNew1_",
+    "stats": [
+      {
+        "id": "light_radius_+%",
+        "max": 5,
+        "min": 5
+      },
+      {
+        "id": "accuracy_rating_+%",
+        "max": 11,
+        "min": 9
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LightRadiusAndAccuracy",
+    "iLvl": 8,
+    "influence": ""
+  },
+  {
+    "weight": 500,
+    "name": "LocalLightRadiusAndAccuracyNew2",
+    "stats": [
+      {
+        "id": "light_radius_+%",
+        "max": 10,
+        "min": 10
+      },
+      {
+        "id": "accuracy_rating_+%",
+        "max": 15,
+        "min": 12
+      }
+    ],
+    "tags": [
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "LightRadiusAndAccuracy",
+    "iLvl": 15,
+    "influence": ""
+  },
+  {
+    "weight": 400,
+    "name": "LocalWeaponChaosPenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 7,
+        "min": 6
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosPenetrationWithAttacks",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 300,
+    "name": "LocalWeaponChaosPenetrationInfluence2",
+    "stats": [
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 9,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosPenetrationWithAttacks",
+    "iLvl": 73,
+    "influence": "hunter"
+  },
+  {
+    "weight": 200,
+    "name": "LocalWeaponChaosPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_chaos_penetration_%",
+        "max": 12,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "damage",
+      "chaos",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ChaosPenetrationWithAttacks",
+    "iLvl": 78,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "LocalWeaponColdPenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_cold_penetration_%",
+        "max": 10,
+        "min": 9
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdResistancePenetration",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 400,
+    "name": "LocalWeaponColdPenetrationInfluence2_",
+    "stats": [
+      {
+        "id": "local_cold_penetration_%",
+        "max": 12,
+        "min": 11
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdResistancePenetration",
+    "iLvl": 73,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 300,
+    "name": "LocalWeaponColdPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_cold_penetration_%",
+        "max": 15,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "cold",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ColdResistancePenetration",
+    "iLvl": 78,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "LocalWeaponElementalPenetrationInfluence1_",
+    "stats": [
+      {
+        "id": "local_elemental_penetration_%",
+        "max": 7,
+        "min": 6
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ElementalPenetration",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 400,
+    "name": "LocalWeaponElementalPenetrationInfluence2",
+    "stats": [
+      {
+        "id": "local_elemental_penetration_%",
+        "max": 9,
+        "min": 8
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ElementalPenetration",
+    "iLvl": 73,
+    "influence": "hunter"
+  },
+  {
+    "weight": 300,
+    "name": "LocalWeaponElementalPenetrationInfluence3_",
+    "stats": [
+      {
+        "id": "local_elemental_penetration_%",
+        "max": 12,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ElementalPenetration",
+    "iLvl": 78,
+    "influence": "hunter"
+  },
+  {
+    "weight": 500,
+    "name": "LocalWeaponFirePenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_fire_penetration_%",
+        "max": 10,
+        "min": 9
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireResistancePenetration",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 400,
+    "name": "LocalWeaponFirePenetrationInfluence2",
+    "stats": [
+      {
+        "id": "local_fire_penetration_%",
+        "max": 12,
+        "min": 11
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireResistancePenetration",
+    "iLvl": 73,
+    "influence": "warlord"
+  },
+  {
+    "weight": 300,
+    "name": "LocalWeaponFirePenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_fire_penetration_%",
+        "max": 15,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "fire",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "FireResistancePenetration",
+    "iLvl": 78,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "LocalWeaponLightningPenetrationInfluence1",
+    "stats": [
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 10,
+        "min": 9
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningResistancePenetration",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 400,
+    "name": "LocalWeaponLightningPenetrationInfluence2_",
+    "stats": [
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 12,
+        "min": 11
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningResistancePenetration",
+    "iLvl": 73,
+    "influence": "crusader"
+  },
+  {
+    "weight": 300,
+    "name": "LocalWeaponLightningPenetrationInfluence3",
+    "stats": [
+      {
+        "id": "local_lightning_penetration_%",
+        "max": 15,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "lightning",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "LightningResistancePenetration",
+    "iLvl": 78,
+    "influence": "crusader"
+  },
+  {
+    "weight": 1000,
+    "name": "ManaGainedFromEnemyDeath1",
+    "stats": [
+      {
+        "id": "base_mana_gained_on_enemy_death",
+        "max": 1,
+        "min": 1
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaGainedFromEnemyDeath",
+    "iLvl": 1,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaGainedFromEnemyDeath2",
+    "stats": [
+      {
+        "id": "base_mana_gained_on_enemy_death",
+        "max": 3,
+        "min": 2
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaGainedFromEnemyDeath",
+    "iLvl": 24,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaGainedFromEnemyDeath3",
+    "stats": [
+      {
+        "id": "base_mana_gained_on_enemy_death",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaGainedFromEnemyDeath",
+    "iLvl": 40,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaLeechPermyriadLocal1",
+    "stats": [
+      {
+        "id": "local_mana_leech_from_physical_damage_permyriad",
+        "max": 40,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "prefix",
+    "group": "ManaLeech",
+    "iLvl": 50,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaRegeneration1",
+    "stats": [
+      {
+        "id": "mana_regeneration_rate_+%",
+        "max": 19,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaRegeneration",
+    "iLvl": 2,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaRegeneration2",
+    "stats": [
+      {
+        "id": "mana_regeneration_rate_+%",
+        "max": 29,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaRegeneration",
+    "iLvl": 18,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaRegeneration3",
+    "stats": [
+      {
+        "id": "mana_regeneration_rate_+%",
+        "max": 39,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaRegeneration",
+    "iLvl": 29,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaRegeneration4",
+    "stats": [
+      {
+        "id": "mana_regeneration_rate_+%",
+        "max": 49,
+        "min": 40
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaRegeneration",
+    "iLvl": 42,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaRegeneration5",
+    "stats": [
+      {
+        "id": "mana_regeneration_rate_+%",
+        "max": 59,
+        "min": 50
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaRegeneration",
+    "iLvl": 55,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ManaRegeneration6",
+    "stats": [
+      {
+        "id": "mana_regeneration_rate_+%",
+        "max": 69,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "resource",
+      "mana"
+    ],
+    "generation_type": "suffix",
+    "group": "ManaRegeneration",
+    "iLvl": 79,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "OnslaugtOnKillUber1",
+    "stats": [
+      {
+        "id": "chance_to_gain_onslaught_on_kill_for_4_seconds_%",
+        "max": 6,
+        "min": 5
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "OnslaugtOnKillPercentChance",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "OnslaugtOnKillUber2",
+    "stats": [
+      {
+        "id": "chance_to_gain_onslaught_on_kill_for_4_seconds_%",
+        "max": 8,
+        "min": 7
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "OnslaugtOnKillPercentChance",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "OnslaugtOnKillUber3",
+    "stats": [
+      {
+        "id": "chance_to_gain_onslaught_on_kill_for_4_seconds_%",
+        "max": 10,
+        "min": 9
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "OnslaugtOnKillPercentChance",
+    "iLvl": 83,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "OnslaugtOnKillWeaponInfluence1",
+    "stats": [
+      {
+        "id": "chance_to_gain_onslaught_on_kill_for_4_seconds_%",
+        "max": 18,
+        "min": 15
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "OnslaugtOnKillPercentChance",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "OnslaugtOnKillWeaponInfluence2",
+    "stats": [
+      {
+        "id": "chance_to_gain_onslaught_on_kill_for_4_seconds_%",
+        "max": 22,
+        "min": 19
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "OnslaugtOnKillPercentChance",
+    "iLvl": 70,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 500,
+    "name": "OnslaugtOnKillWeaponInfluence3",
+    "stats": [
+      {
+        "id": "chance_to_gain_onslaught_on_kill_for_4_seconds_%",
+        "max": 25,
+        "min": 23
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "OnslaugtOnKillPercentChance",
+    "iLvl": 73,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalAddedAsColdUber1",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_cold",
+        "max": 12,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsCold",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalAddedAsColdUber2",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_cold",
+        "max": 17,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsCold",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalAddedAsColdUber3",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_cold",
+        "max": 20,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsCold",
+    "iLvl": 80,
+    "influence": "shaper"
+  },
+  {
+    "weight": 400,
+    "name": "PhysicalAddedAsExtraColdWeaponInfluence1_",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_cold",
+        "max": 12,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsCold",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 400,
+    "name": "PhysicalAddedAsExtraColdWeaponInfluence2",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_cold",
+        "max": 17,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsCold",
+    "iLvl": 73,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 400,
+    "name": "PhysicalAddedAsExtraColdWeaponInfluence3",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_cold",
+        "max": 20,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "cold"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsCold",
+    "iLvl": 78,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 400,
+    "name": "PhysicalAddedAsExtraLightningWeaponInfluence1_",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_lightning",
+        "max": 12,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsLightning",
+    "iLvl": 68,
+    "influence": "crusader"
+  },
+  {
+    "weight": 400,
+    "name": "PhysicalAddedAsExtraLightningWeaponInfluence2",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_lightning",
+        "max": 17,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsLightning",
+    "iLvl": 73,
+    "influence": "crusader"
+  },
+  {
+    "weight": 400,
+    "name": "PhysicalAddedAsExtraLightningWeaponInfluence3_",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_lightning",
+        "max": 20,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsLightning",
+    "iLvl": 78,
+    "influence": "crusader"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalAddedAsLightningUber1",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_lightning",
+        "max": 12,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsLightning",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalAddedAsLightningUber2",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_lightning",
+        "max": 17,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsLightning",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalAddedAsLightningUber3",
+    "stats": [
+      {
+        "id": "physical_damage_%_to_add_as_lightning",
+        "max": 20,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "elemental_damage",
+      "damage",
+      "physical",
+      "elemental",
+      "lightning"
+    ],
+    "generation_type": "prefix",
+    "group": "PhysicalAddedAsLightning",
+    "iLvl": 80,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalDamageConvertedToChaosUber1",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_chaos",
+        "max": 15,
+        "min": 10
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "chaos"
+    ],
+    "generation_type": "suffix",
+    "group": "PhysicalDamageConvertedToChaos",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalDamageConvertedToChaosUber2",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_chaos",
+        "max": 20,
+        "min": 16
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "chaos"
+    ],
+    "generation_type": "suffix",
+    "group": "PhysicalDamageConvertedToChaos",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalDamageConvertedToChaosUber3",
+    "stats": [
+      {
+        "id": "base_physical_damage_%_to_convert_to_chaos",
+        "max": 25,
+        "min": 21
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "chaos"
+    ],
+    "generation_type": "suffix",
+    "group": "PhysicalDamageConvertedToChaos",
+    "iLvl": 85,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "PhysicalDamageWhileDualWieldingInfluence1__",
+    "stats": [
+      {
+        "id": "physical_damage_while_dual_wielding_+%",
+        "max": 27,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "DualWieldingPhysicalDamage",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "PhysicalDamageWhileDualWieldingInfluence2_",
+    "stats": [
+      {
+        "id": "physical_damage_while_dual_wielding_+%",
+        "max": 32,
+        "min": 28
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "DualWieldingPhysicalDamage",
+    "iLvl": 70,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "PhysicalDamageWhileDualWieldingInfluence3",
+    "stats": [
+      {
+        "id": "physical_damage_while_dual_wielding_+%",
+        "max": 37,
+        "min": 33
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "DualWieldingPhysicalDamage",
+    "iLvl": 73,
+    "influence": "warlord"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalDamageWhileDualWieldingUber1",
+    "stats": [
+      {
+        "id": "physical_damage_while_dual_wielding_+%",
+        "max": 27,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "DualWieldingPhysicalDamage",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalDamageWhileDualWieldingUber2",
+    "stats": [
+      {
+        "id": "physical_damage_while_dual_wielding_+%",
+        "max": 32,
+        "min": 28
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "DualWieldingPhysicalDamage",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "PhysicalDamageWhileDualWieldingUber3",
+    "stats": [
+      {
+        "id": "physical_damage_while_dual_wielding_+%",
+        "max": 37,
+        "min": 33
+      }
+    ],
+    "tags": [
+      "physical_damage",
+      "damage",
+      "physical",
+      "attack"
+    ],
+    "generation_type": "suffix",
+    "group": "DualWieldingPhysicalDamage",
+    "iLvl": 80,
+    "influence": "elder"
+  },
+  {
+    "weight": 3000,
+    "name": "PoisonDamage1",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 30,
+        "min": 21
+      },
+      {
+        "id": "base_chance_to_poison_on_hit_%",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "suffix",
+    "group": "PoisonDamage",
+    "iLvl": 20,
+    "influence": ""
+  },
+  {
+    "weight": 3000,
+    "name": "PoisonDamage2",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 40,
+        "min": 31
+      },
+      {
+        "id": "base_chance_to_poison_on_hit_%",
+        "max": 25,
+        "min": 25
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "suffix",
+    "group": "PoisonDamage",
+    "iLvl": 40,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "PoisonDamage3",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 50,
+        "min": 41
+      },
+      {
+        "id": "base_chance_to_poison_on_hit_%",
+        "max": 30,
+        "min": 30
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "suffix",
+    "group": "PoisonDamage",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 400,
+    "name": "PoisonDamagePrefixInfluence1__",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 69,
+        "min": 60
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "prefix",
+    "group": "WeaponCasterDamagePrefix",
+    "iLvl": 68,
+    "influence": "hunter"
+  },
+  {
+    "weight": 300,
+    "name": "PoisonDamagePrefixInfluence2__",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 79,
+        "min": 70
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "prefix",
+    "group": "WeaponCasterDamagePrefix",
+    "iLvl": 71,
+    "influence": "hunter"
+  },
+  {
+    "weight": 200,
+    "name": "PoisonDamagePrefixInfluence3",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 89,
+        "min": 80
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "prefix",
+    "group": "WeaponCasterDamagePrefix",
+    "iLvl": 75,
+    "influence": "hunter"
+  },
+  {
+    "weight": 100,
+    "name": "PoisonDamagePrefixInfluence4",
+    "stats": [
+      {
+        "id": "base_poison_damage_+%",
+        "max": 94,
+        "min": 90
+      }
+    ],
+    "tags": [
+      "poison",
+      "damage",
+      "chaos",
+      "ailment"
+    ],
+    "generation_type": "prefix",
+    "group": "WeaponCasterDamagePrefix",
+    "iLvl": 78,
+    "influence": "hunter"
+  },
+  {
+    "weight": 250,
+    "name": "PowerChargeOnKillInfluence1",
+    "stats": [
+      {
+        "id": "add_power_charge_on_kill_%_chance",
+        "max": 6,
+        "min": 4
+      }
+    ],
+    "tags": [
+      "power_charge"
+    ],
+    "generation_type": "prefix",
+    "group": "PowerChargeOnKillChance",
+    "iLvl": 68,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 250,
+    "name": "PowerChargeOnKillInfluence2",
+    "stats": [
+      {
+        "id": "add_power_charge_on_kill_%_chance",
+        "max": 10,
+        "min": 7
+      }
+    ],
+    "tags": [
+      "power_charge"
+    ],
+    "generation_type": "prefix",
+    "group": "PowerChargeOnKillChance",
+    "iLvl": 80,
+    "influence": "redeemer"
+  },
+  {
+    "weight": 1000,
+    "name": "ReducedLocalAttributeRequirements1",
+    "stats": [
+      {
+        "id": "local_attribute_requirements_+%",
+        "max": -18,
+        "min": -18
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "LocalAttributeRequirements",
+    "iLvl": 36,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "ReducedLocalAttributeRequirements2",
+    "stats": [
+      {
+        "id": "local_attribute_requirements_+%",
+        "max": -32,
+        "min": -32
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "LocalAttributeRequirements",
+    "iLvl": 60,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "StunDuration1",
+    "stats": [
+      {
+        "id": "base_stun_duration_+%",
+        "max": 15,
+        "min": 11
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "StunDurationIncreasePercent",
+    "iLvl": 5,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "StunDuration2",
+    "stats": [
+      {
+        "id": "base_stun_duration_+%",
+        "max": 20,
+        "min": 16
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "StunDurationIncreasePercent",
+    "iLvl": 18,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "StunDuration3",
+    "stats": [
+      {
+        "id": "base_stun_duration_+%",
+        "max": 25,
+        "min": 21
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "StunDurationIncreasePercent",
+    "iLvl": 30,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "StunDuration4",
+    "stats": [
+      {
+        "id": "base_stun_duration_+%",
+        "max": 30,
+        "min": 26
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "StunDurationIncreasePercent",
+    "iLvl": 44,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "StunDuration5",
+    "stats": [
+      {
+        "id": "base_stun_duration_+%",
+        "max": 35,
+        "min": 31
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "StunDurationIncreasePercent",
+    "iLvl": 58,
+    "influence": ""
+  },
+  {
+    "weight": 1000,
+    "name": "SupportedByMeleeSplashDamageUber1",
+    "stats": [
+      {
+        "id": "local_display_socketed_gems_get_melee_splash_level",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "area_damage_+%",
+        "max": 27,
+        "min": 23
+      }
+    ],
+    "tags": [
+      "support",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "SupportedByMelee",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "SupportedByMeleeSplashDamageUber2",
+    "stats": [
+      {
+        "id": "local_display_socketed_gems_get_melee_splash_level",
+        "max": 18,
+        "min": 18
+      },
+      {
+        "id": "area_damage_+%",
+        "max": 32,
+        "min": 28
+      }
+    ],
+    "tags": [
+      "support",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "SupportedByMelee",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "SupportedByMeleeSplashDamageUber3",
+    "stats": [
+      {
+        "id": "local_display_socketed_gems_get_melee_splash_level",
+        "max": 20,
+        "min": 20
+      },
+      {
+        "id": "area_damage_+%",
+        "max": 37,
+        "min": 33
+      }
+    ],
+    "tags": [
+      "support",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "SupportedByMelee",
+    "iLvl": 80,
+    "influence": "shaper"
+  },
+  {
+    "weight": 1000,
+    "name": "SupportedBySpiritStrikeAreaUber1_",
+    "stats": [
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_spirit_strike",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "base_skill_area_of_effect_+%",
+        "max": 8,
+        "min": 5
+      }
+    ],
+    "tags": [
+      "support",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "SupportedByMelee",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "SupportedBySpiritStrikeAreaUber2",
+    "stats": [
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_spirit_strike",
+        "max": 18,
+        "min": 18
+      },
+      {
+        "id": "base_skill_area_of_effect_+%",
+        "max": 12,
+        "min": 9
+      }
+    ],
+    "tags": [
+      "support",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "SupportedByMelee",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "SupportedBySpiritStrikeAreaUber3",
+    "stats": [
+      {
+        "id": "local_display_socketed_gems_supported_by_level_x_spirit_strike",
+        "max": 20,
+        "min": 20
+      },
+      {
+        "id": "base_skill_area_of_effect_+%",
+        "max": 15,
+        "min": 13
+      }
+    ],
+    "tags": [
+      "support",
+      "gem"
+    ],
+    "generation_type": "suffix",
+    "group": "SupportedByMelee",
+    "iLvl": 80,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "UnholyMightOnKillUber1",
+    "stats": [
+      {
+        "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+        "max": 6,
+        "min": 5
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "UnholyMightOnKillPercentChance",
+    "iLvl": 68,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "UnholyMightOnKillUber2_",
+    "stats": [
+      {
+        "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+        "max": 8,
+        "min": 7
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "UnholyMightOnKillPercentChance",
+    "iLvl": 75,
+    "influence": "elder"
+  },
+  {
+    "weight": 1000,
+    "name": "UnholyMightOnKillUber3",
+    "stats": [
+      {
+        "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+        "max": 10,
+        "min": 9
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "UnholyMightOnKillPercentChance",
+    "iLvl": 84,
+    "influence": "elder"
+  },
+  {
+    "weight": 500,
+    "name": "UnholyMightOnKillWeaponInfluence1",
+    "stats": [
+      {
+        "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+        "max": 18,
+        "min": 15
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "UnholyMightOnKillPercentChance",
+    "iLvl": 68,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "UnholyMightOnKillWeaponInfluence2",
+    "stats": [
+      {
+        "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+        "max": 22,
+        "min": 19
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "UnholyMightOnKillPercentChance",
+    "iLvl": 70,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "UnholyMightOnKillWeaponInfluence3",
+    "stats": [
+      {
+        "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+        "max": 25,
+        "min": 23
+      }
+    ],
+    "tags": [],
+    "generation_type": "suffix",
+    "group": "UnholyMightOnKillPercentChance",
+    "iLvl": 73,
+    "influence": "warlord"
+  },
+  {
+    "weight": 500,
+    "name": "WeaponElementalDamageSupportedUber1",
+    "stats": [
+      {
+        "id": "elemental_damage_with_attack_skills_+%",
+        "max": 32,
+        "min": 28
+      },
+      {
+        "id": "local_display_socketed_gems_get_weapon_elemental_damage_level",
+        "max": 18,
+        "min": 18
+      }
+    ],
+    "tags": [
+      "support",
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedWeaponElementalDamagePercent",
+    "iLvl": 68,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "WeaponElementalDamageSupportedUber2",
+    "stats": [
+      {
+        "id": "elemental_damage_with_attack_skills_+%",
+        "max": 37,
+        "min": 33
+      },
+      {
+        "id": "local_display_socketed_gems_get_weapon_elemental_damage_level",
+        "max": 20,
+        "min": 20
+      }
+    ],
+    "tags": [
+      "support",
+      "elemental_damage",
+      "damage",
+      "elemental",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "IncreasedWeaponElementalDamagePercent",
+    "iLvl": 75,
+    "influence": "shaper"
+  },
+  {
+    "weight": 500,
+    "name": "WeaponSocketedAttacksDamageFinalUber1_",
+    "stats": [
+      {
+        "id": "local_display_socketed_attack_damage_+%_final",
+        "max": 40,
+        "min": 40
+      }
+    ],
+    "tags": [
+      "skill",
+      "damage",
+      "attack",
+      "gem"
+    ],
+    "generation_type": "prefix",
+    "group": "SocketedAttacksDamageFinal",
+    "iLvl": 83,
+    "influence": "shaper"
+  }
+]
